@@ -7,7 +7,7 @@
 ## Technologies Used
 * _ReactJS_
 * _React-router-dom (Outlet, useLoaderData, useRouteError, NavLink)_
-* _React-Hooks (useReducer, useContext, useEffect, useState)_
+* _React-Hooks (useEffect, useState)_
 * _@reduxjs/toolkit_
 * _react-redux_
 * _css_
